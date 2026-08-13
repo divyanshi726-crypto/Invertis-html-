@@ -1,0 +1,51 @@
+font size
+font weight =boldness
+seo search engine organisation
+use h1 one time
+a enter to get anchor tag 
+target blank open in new tag
+href + taget= crete hyperlink
+ctrl+l backspace clean whole line
+link+ enter foe aadding css file
+in css to change colour use inside heading style type colour and name
+tags are two type 1 symmetric tag and non symmetric tag
+in table thead is for table haedaing 
+tdody table ka data ka liya use hota haedaing
+header 
+body footer
+
+
+git use
+git init   U - Untracked
+           M - modify
+           A - added /tracked
+
+git add filename.html
+
+//commint command use ka liya 
+     git commit -m "Inital commit"
+
+     cls se terminal par ho hooga bo clear ho jayega
+     agara folder humne many folder ban rakhe hai aur file pr jana hai to 
+     cd command ka use karega
+     aur nikalna hai ato cd..
+     cd..
+     cd..
+     
+
+
+     git push -m origin main
+
+
+
+     again repeid all steps
+     gitinit
+     git add .   (all folder and file add) 
+     git commit -m "main change what you change"
+
+     in git hub you create a new repo add the three command in our terminal in vs code
+
+
+     git remote add origin repolink ----- connection stablish krana
+     git branch -M main------ multiple branch
+     git push -m origin main ------------ uploading a new project  its is main command 
